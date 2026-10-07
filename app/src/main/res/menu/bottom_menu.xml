@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pregunta1"
+        android:icon="@drawable/outline_add_home_24"
+        android:title="@string/textpregunta1"/>
+    <item android:id="@+id/pregunta2"
+        android:icon="@drawable/outline_add_alert_24"
+        android:title="@string/textpregunta2"/>
+    <item android:id="@+id/pregunta3"
+        android:icon="@drawable/outline_accessibility_24"
+        android:title="@string/textpregunta3"/>
+    <item android:id="@+id/pregunta4"
+        android:icon="@drawable/outline_analytics_24"
+        android:title="@string/textpregunta4"/>
+
+
+
+</menu>
