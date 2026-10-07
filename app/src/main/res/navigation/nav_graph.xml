@@ -7,22 +7,26 @@
 
     <fragment
         android:id="@+id/pregunta1"
-        android:name="pe.edu.cibertec.appgrupo12t2.Pregunta1"
+        android:name="pe.edu.cibertec.appgrupo12t2.Pregunta1Fragment"
         android:label="@string/textpregunta1"
         tools:layout="@layout/fragment_pregunta1" />
+
     <fragment
         android:id="@+id/pregunta2"
-        android:name="pe.edu.cibertec.appgrupo12t2.Pregunta2"
+        android:name="pe.edu.cibertec.appgrupo12t2.Pregunta2Fragment"
         android:label="@string/textpregunta2"
         tools:layout="@layout/fragment_pregunta2" />
+
     <fragment
         android:id="@+id/pregunta3"
-        android:name="pe.edu.cibertec.appgrupo12t2.Pregunta3"
+        android:name="pe.edu.cibertec.appgrupo12t2.Pregunta3Fragment"
         android:label="@string/textpregunta3"
         tools:layout="@layout/fragment_pregunta3" />
+
     <fragment
         android:id="@+id/pregunta4"
-        android:name="pe.edu.cibertec.appgrupo12t2.Pregunta4"
+        android:name="pe.edu.cibertec.appgrupo12t2.Pregunta4Fragment"
         android:label="@string/textpregunta4"
         tools:layout="@layout/fragment_pregunta4" />
+
 </navigation>
