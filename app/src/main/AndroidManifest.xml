@@ -16,6 +16,10 @@
             android:exported="false" />
 
         <activity
+            android:name=".Pregunta4Activity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
 
