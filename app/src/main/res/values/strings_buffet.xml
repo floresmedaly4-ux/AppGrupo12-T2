@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="buffet_titulo">Desperdicio en el buffet</string>
+    <string name="buffet_regla">Hasta 100 g no hay penalización. Si superas esa cantidad, se cobra S/ 15.00 más S/ 0.12 por cada gramo de exceso.</string>
+    <string name="buffet_etiqueta">Comida sobrante (gramos)</string>
+    <string name="buffet_calcular">Calcular penalización</string>
+    <string name="buffet_error_vacio">Ingresa los gramos de comida sobrante.</string>
+    <string name="buffet_error_numero">Ingresa un número válido mayor o igual a cero.</string>
+    <string name="buffet_sin_penalizacion">Plato dentro del margen admisible de consumo.</string>
+    <string name="buffet_resultado">Gramos sobrantes pesados: %1$.2f g\nExceso de desperdicio: %2$.2f g\nPenalización total por desperdicio: S/ %3$.2f</string>
+</resources>
